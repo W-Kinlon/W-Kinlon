@@ -1,3 +1,4 @@
+- Notice：If you cannot reach on github, Please click [this link](https://gitee.com/W-Kinlon)
 - 👋 Hi, I’m @W-Kinlon
 - 👀 I’m interested in python，Java
 - 🌱 I’m currently learning Machine-learning and deep-learning
